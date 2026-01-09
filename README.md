@@ -68,15 +68,17 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 - 🌱 **Continuous Learning:** Moving from React Native to AI Engineering has been a journey of constant evolution.
 
 ---
+
 ### 📊 Github Insights & Activity
 
+<p align="center">
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&hide_border=true" alt="Anil's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats graph" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="stats graph" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="160" />
 </p>
 
 <p align="center">
@@ -88,7 +90,6 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
     <img src="https://github-profile-trophy.vercel.app/?username=aniloncul&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" alt="aniloncul" />
   </a>
 </p>
-
 ---
 
 <p align="center">

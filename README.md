@@ -23,18 +23,7 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://gitmystat.vercel.app/recent?username=aniloncul&theme=tokyonight&hide_border=true" alt="Recent Activity" />
-  <h4 align="center">Contribution Snake 🐍</h4>
-<p align="center">
-  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-</p>
-
-
----
+<br />
 
 ### ⚡ The "Needle-Movers" (AI Projects)
 
@@ -62,18 +51,20 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack & Capabilities
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,firebase,docker,gcp,pinecone,github&theme=dark" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,firebase,docker,gcp,pinecone,github&theme=dark" />
+
+<br/><br/>
 
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **AI Architecture** | **Agents, RAG, LangChain, LangGraph, Context Engineering** |
 | **Strategy** | Business Analysis, Process Automation, Market Intelligence |
+
+</div>
 
 ---
 
@@ -85,22 +76,34 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 
 ---
 
-### 📊 Github Insights & Activity
+<div align="center">
+  
+  <h3>📊 GitHub Analytics</h3>
 
+  <a href="https://github.com/aniloncul/aniloncul">
+    <img src="https://github.com/aniloncul/aniloncul/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D View" width="100%" />
+  </a>
 
-<h4 align="center">My Contribution Graph</h4>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&area=true&hide_border=true" alt="Anil's Activity Graph" />
-</p>
+  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
+  <br/><br/>
 
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=aniloncul&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+      </td>
+      <td style="border: none;">
+        <img src="https://gitmystat.vercel.app/recent?username=aniloncul&theme=tokyonight&hide_border=true" height="170" alt="recent activity" />
+      </td>
+    </tr>
+  </table>
 
-<h4 align="center">3D Isometric View 立方体</h4>
-<p align="center">
-  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D View" />
-</p>
+  <br/>
 
+  <img src="https://komarev.com/ghpvc/?username=aniloncul&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 
+</div>
 
 ---
 

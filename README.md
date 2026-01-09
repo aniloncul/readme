@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/G5eO2XaXAly5a/giphy.gif" width="320" alt="Coding GIF">
+  <a href="https://github.com/git/git-scm.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5CE06E&center=true&vCenter=true&width=500&lines=AI+Agent+Architect;Building+Autonomous+Workflows;Business+Logic+%E2%86%92+Code;Berlin+Based+Innovator" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Hi, I'm Anil 🚀</h1>
@@ -51,12 +53,15 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 
 ### 🛠️ Tech Stack & Capabilities
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,postgres,firebase,docker,gcp,pinecone,github&theme=dark" />
+  </a>
+</p>
+
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **AI Architecture** | **Agents, RAG, LangChain, LangGraph, Context Engineering** |
-| **Languages** | Python (Backend/AI), TypeScript, JavaScript (ES6+), SQL |
-| **Modern Web** | **Next.js, React, Node.js, Tailwind CSS** |
-| **Data & Cloud** | Pinecone, PostgreSQL, Firebase, Vercel, Docker |
 | **Strategy** | Business Analysis, Process Automation, Market Intelligence |
 
 ---
@@ -71,28 +76,15 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 
 ### 📊 Github Insights & Activity
 
-<p align="center">
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&hide_border=true" alt="Anil's Activity Graph" />
-</p>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=ffffff&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=ffffff" height="150" alt="languages graph" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="stats graph" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniloncul&theme=react&hide_border=true&background=0D1117&ring=5CE06E&fire=5CE06E&currStreakLabel=5CE06E" alt="Anil's Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniloncul&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" alt="aniloncul" />
-  </a>
-</p>
----
-
-<p align="center">
-  <font color="#5CE06E"><i>"It is amazing what we achieve by just typing some stuff in an editor!"</i> 💜</font><br>
-  <strong>Based in Berlin 🇩🇪</strong>
-</p>
+  <img src="

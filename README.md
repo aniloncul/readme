@@ -75,12 +75,12 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniloncul&theme=react&hide_border=true&background=0D1117&ring=5CE06E&fire=5CE06E&currStreakLabel=5CE06E" alt="Anil's Streak" />
+  <img src="https://streak-stats.demolab.com?user=aniloncul&theme=react&hide_border=true&background=0D1117&ring=5CE06E&fire=5CE06E&currStreakLabel=5CE06E" alt="Anil's Streak" />
 </p>
 
 <p align="center">
@@ -88,7 +88,6 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
     <img src="https://github-profile-trophy.vercel.app/?username=aniloncul&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" alt="aniloncul" />
   </a>
 </p>
-
 
 ---
 

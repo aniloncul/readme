@@ -76,15 +76,15 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 
 ### 📊 Github Insights & Activity
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aniloncul&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" alt="aniloncul" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&hide_border=true" alt="Anil's Activity Graph" />
 </div>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="stats graph" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="160" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aniloncul&theme=dark&hide_border=true&background=0D1117&ring=5CE06E&fire=5CE06E&currStreakLabel=5CE06E&dates=ffffff" alt="Anil's Streak" />

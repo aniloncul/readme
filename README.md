@@ -81,10 +81,18 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=ffffff&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=ffffff" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniloncul&show_icons=true&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="stats graph" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniloncul&layout=compact&hide_border=true&title_color=5CE06E&icon_color=5CE06E&bg_color=0D1117&text_color=C9D1D9" alt="languages graph" height="160" />
+</p>
 
 <p align="center">
-  <img src="
+  <img src="https://streak-stats.demolab.com?user=aniloncul&theme=dark&hide_border=true&background=0D1117&ring=5CE06E&fire=5CE06E&currStreakLabel=5CE06E&dates=ffffff" alt="Anil's Streak" />
+</p>
+
+---
+
+<p align="center">
+  <font color="#5CE06E"><i>"It is amazing what we achieve by just typing some stuff in an editor!"</i> 💜</font><br>
+  <strong>Based in Berlin 🇩🇪</strong>
+</p>

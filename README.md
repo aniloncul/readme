@@ -27,6 +27,10 @@
 
 <p align="center">
   <img src="https://gitmystat.vercel.app/recent?username=aniloncul&theme=tokyonight&hide_border=true" alt="Recent Activity" />
+  <h4 align="center">Contribution Snake 🐍</h4>
+<p align="center">
+  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 </p>
 
 
@@ -89,10 +93,7 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&area=true&hide_border=true" alt="Anil's Activity Graph" />
 </p>
 
-<h4 align="center">Contribution Snake 🐍</h4>
-<p align="center">
-  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+
 
 <h4 align="center">3D Isometric View 立方体</h4>
 <p align="center">

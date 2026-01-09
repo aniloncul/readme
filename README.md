@@ -84,10 +84,20 @@ I build AI agents that don't just chat, but **execute**. My work focuses on **RA
 ### 📊 Github Insights & Activity
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&hide_border=true" alt="Anil's Activity Graph" />
-</div>
+<h4 align="center">My Contribution Graph</h4>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniloncul&bg_color=0D1117&color=5CE06E&line=5CE06E&point=FFFFFF&area=true&hide_border=true" alt="Anil's Activity Graph" />
+</p>
 
+<h4 align="center">Contribution Snake 🐍</h4>
+<p align="center">
+  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<h4 align="center">3D Isometric View 立方体</h4>
+<p align="center">
+  <img width="100%" src="https://github.com/aniloncul/aniloncul/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D View" />
+</p>
 
 
 
